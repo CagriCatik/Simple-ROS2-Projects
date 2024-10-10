@@ -1,0 +1,6 @@
+rclpy>=1.0.0
+opencv-python>=4.5.1
+opencv-python-headless>=4.5.1
+numpy>=1.18.0
+setuptools>=45.0.0
+cv_bridge
