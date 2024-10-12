@@ -1,0 +1,4 @@
+rclpy
+pyserial
+sensor_msgs
+setuptools

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# ROS 2
+build/
+install/
+log/
+
+# Jetson-related
+*.pt
+*.onnx
+*.pth

@@ -1,0 +1,35 @@
+# ROS 2 workspace build files
+/build/
+/install/
+/log/
+
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+*.so
+
+# Virtual environment
+venv/
+env/
+*.env
+*.venv
+
+# macOS files
+.DS_Store
+
+# Arduino build files
+*.hex
+*.elf
+
+# VSCode and JetBrains IDEs
+.vscode/
+.idea/
+
+# System files
+*.swp
+*.swo
+*~
